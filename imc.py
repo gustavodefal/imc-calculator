@@ -29,4 +29,4 @@ resultado = tk.Label(posicao)
 resultado.grid(column=1, row=7, columnspan=2)
 
 janela.title('Calculadora de IMC')
-janela.mainloop()
+janela.mainloop() 
