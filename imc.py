@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 #calcula o imc
 def calcular():
     imc = float(peso.get()) / float(altura.get()) ** 2
